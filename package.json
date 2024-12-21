@@ -8,7 +8,7 @@
     "help": "tsc --help"
   },
   "keywords": [],
-  "author": "radhakrishnbca@gmail.com",
+  "author": "radhakrishnabca@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.7.2"

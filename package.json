@@ -1,0 +1,16 @@
+{
+  "name": "node-typescript",
+  "version": "1.0.0",
+  "description": "A sample node and typescript package boilerplate",
+  "scripts": {
+    "clean": "tsc --build --clean",
+    "build": "tsc --build",
+    "help": "tsc --help"
+  },
+  "keywords": [],
+  "author": "radhakrishnbca@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
